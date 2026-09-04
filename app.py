@@ -1,4 +1,4 @@
-print("Hello dharshan")
+# Removed dharshan 
 print("Hello Vasanthan")
 
 if "name" == "NAME".lower():
