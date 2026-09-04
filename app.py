@@ -1,5 +1,5 @@
 # Removed dharshan 
-print("Hello Vasanthan")
+print("Hello Vasanthan and Kethsia")
 
 if "name" == "NAME".lower():
     print("Hey")
